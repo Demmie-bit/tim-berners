@@ -1,0 +1,39 @@
+ul{
+    color:cornflowerblue;
+    list-style:none;
+    position:absolute;
+     right:10px;
+}
+li:hover{
+    background-color:#bbd0f7;
+}
+li{
+    float:left;
+    margin-right:10px;
+    border-width:thin;
+    border-style:solid;
+    border-color:blanchedalmond;
+    padding-right:5px;
+    padding-left:5px;
+    background-color:cornsilk;
+}
+img{
+    width:50%;
+      margin-top: 30px;  
+}
+body{
+    text-align: center;
+    background: linear-gradient(cornflowerblue,white) 
+}
+h1{
+  background-color: cornflowerblue; 
+    color:azure;
+}
+h2{
+  background-color: cornflowerblue;
+    color:azure;
+}
+p{
+ background-color: cornflowerblue;
+ color: azure;
+}
