@@ -1,25 +1,17 @@
 ul{
     color:cornflowerblue;
     list-style:none;
-    position:absolute;
+       position:absolute;
      right:10px;
 }
-li:hover{
-    background-color:#bbd0f7;
-}
-li{
-    float:left;
-    margin-right:10px;
-    border-width:thin;
-    border-style:solid;
-    border-color:blanchedalmond;
-    padding-right:5px;
-    padding-left:5px;
-    background-color:cornsilk;
-}
+
 img{
     width:50%;
       margin-top: 30px;  
+}
+img_1{
+    width:30%;
+    height:40%;
 }
 body{
     text-align: center;
@@ -36,4 +28,10 @@ h2{
 p{
  background-color: cornflowerblue;
  color: azure;
+}
+#contacts h2{
+    display: inline;
+}
+#contacts{
+    margin-top:10px;
 }
